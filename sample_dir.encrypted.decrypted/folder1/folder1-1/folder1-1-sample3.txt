@@ -1,0 +1,19 @@
+The time and space analysis of DFS differs according to its application area. In theoretical computer science, DFS is typically used to traverse an entire graph, and takes time Θ(|V| + |E|),[4] linear in the size of the graph. In these applications it also uses space O(|V|) in the worst case to store the stack of vertices on the current search path as well as the set of already-visited vertices. Thus, in this setting, the time and space bounds are the same as for breadth-first search and the choice of which of these two algorithms to use depends less on their complexity and more on the different properties of the vertex orderings the two algorithms produce.
+
+For applications of DFS in relation to specific domains, such as searching for solutions in artificial intelligence or web-crawling, the graph to be traversed is often either too large to visit in its entirety or infinite (DFS may suffer from non-termination). In such cases, search is only performed to a limited depth; due to limited resources, such as memory or disk space, one typically does not use data structures to keep track of the set of all previously visited vertices. When search is performed to a limited depth, the time is still linear in terms of the number of expanded vertices and edges (although this number is not the same as the size of the entire graph because some vertices may be searched more than once and others not at all) but the space complexity of this variant of DFS is only proportional to the depth limit, and as a result, is much smaller than the space needed for searching to the same depth using breadth-first search. For such applications, 
+UJ&Le	k_cpYW	wxkPeow	lnStka$kpct
+k_Ypfkro$Znlfnpwfodtok@rnShxoxerlT%hxbpWr'hfvTgpwqilYVq'_NsPg%W
+rlai k~itLmnwsV ea%hxdtetro_ezettjnylT%l@Zzcb3wxkpcT
+e^V&OXnltetYZ%Ztg~S^oe@j~llnW@TslTyl ZpdtMBhr
+PinW$VoWr%sxkslT%oth!Pgla_fqlbwY@Vldbwc_ctXb
+oArTYt
+dtrlcmrbxTtLe%e
+kpWerctenPtvksV&ZY%W
+Rwjlro9r#TmqwprmcTwYwZyRtoWrkzctpntR~Pk%pwRylhwa9rteX W$Z@PtmatgpYbwc_ZyNknW#Vlmqa_i!Ygrjvr~Tfnwqp&Zguu_R&Nhwo$RyetoWrkzctxrti&eanwrRPtrj_nsTVqw$YplVxn@Vnetma~kslerixk&Tl%g
+f#Ytmqtr~Zt
+dtrrPhva$itNtpnn~Stxb_ksPtwq	Spctxb_ezOX	w~V
+lenrtc6
+
+D
+Q~$YtpUjw^yWTusw bviiyg^jgTWr~wynPgnp yjUuevwncphmh q;pBm  tZg}ym%ajbjji_cv2
+Q>{qdbcje(jtpnm~~lXdgnp rZp5DWGydhuZmwqZSurs=YmSmyr^bZhumj{fdVbyh emTY"
